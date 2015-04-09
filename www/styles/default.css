@@ -1,0 +1,11 @@
+main footer {
+  border: 1px solid #e7e7e7;
+  background-color: #f8f8f8;
+}
+main footer #bot {
+  text-align: center;
+}
+main #wrapper {
+  padding: 10px;
+  min-height: 600px;
+}

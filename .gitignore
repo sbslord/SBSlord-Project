@@ -23,6 +23,8 @@ build/Release
 # Commenting this out is preferred by some people, see
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
 node_modules
+bootstrap-3.3.4
+nginx-1.7.10
 
 # Users Environment Variables
 .lock-wscript

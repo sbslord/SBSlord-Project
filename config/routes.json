@@ -1,0 +1,12 @@
+{
+   "index": [
+      "indexModel",
+      "indexView",
+      "indexController"
+   ],
+   "bejelentkezes": [
+      "loginModel",
+      "loginView",
+      "loginController"
+   ]
+}
